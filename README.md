@@ -1,2 +1,2 @@
-# javaStuff
+# Password-GUI
 java fun
